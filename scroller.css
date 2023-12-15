@@ -1,8 +1,8 @@
 
 #outerMostDiv {
-  height: 470px;
+  height: 620px;
   left: 10px;
-  top: 1020px;
+  top: 10px;
   width: 999px;
   opacity: 1;
   position: absolute;
@@ -63,7 +63,7 @@
   width: 6px;
   height: 50px;
   /* border-radius: 5px;  */
-  top: 0; 
+  top: 0;
   right: -1px;
   background: #949494;
   border: solid 1px #949494;
@@ -93,15 +93,15 @@
 .isiLineNoArrows {
   background: #e2e2e2;
   /* border-radius: 3px;  */
-  top: 0; 
-  right: 0px; 
+  top: 0;
+  right: 0px;
   height: 100%;
   width: 8px;
   cursor: pointer;
 }
 
 #isi-controls {
-  right: 30px; 
+  right: 30px;
   top: 5px;
   height: 423px;
   width: 7px;
